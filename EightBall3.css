@@ -1,0 +1,98 @@
+body{
+    background-color: #349062;
+}
+
+.row{
+    display: flex;
+}
+
+.header{
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.name{
+    background: linear-gradient(90deg, skyblue, seagreen);
+    color: white;
+    font-size: 20px;
+    border: 2px solid white;
+    height: 60px;
+    width: 400px;
+    }
+
+h1 {
+    color: white;
+    font-size: 4em;
+}
+
+p{
+    color: white;
+    font-size: 2em;
+}
+
+#userName {
+    font-size: 10px;
+}
+#button{
+    border: 1px solid white;
+    background-color: rgb(129, 133, 121);
+    font-weight: 400px;
+    font-size: 2em;
+    color: white;
+    box-shadow: 0 0 20px ;
+    border-radius: 4px;
+}
+
+.button2{
+    border: 1px solid white;
+    background-color: rgb(129, 133, 121);
+    font-weight: 400px;
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 0 0 20px ;
+    border-radius: 4px;
+}
+
+.userheader{
+    text-align: center;
+}
+
+.username{
+    background: linear-gradient(90deg, skyblue, seagreen);
+    color: white;
+    font-size: 20px;
+    border: 2px solid white;
+    height: 60px;
+    width: 400px;
+}
+
+h3{
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: white;
+    font-size: 25px;
+}
+
+#que{
+    color: white;
+    
+}
+
+#que li{
+    cursor: pointer;
+}
+
+.row #que{
+    font-size: 20px;
+}
+
+#fortune{
+    box-shadow: 0 0 20px ;
+    display: none;
+    margin-top: 290px;
+}
+
